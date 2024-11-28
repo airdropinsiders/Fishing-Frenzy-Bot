@@ -4,8 +4,6 @@ Building the onchain economy with @base. Fishing is just the start. 🐟 Develop
 
 - Register [https://fishingfrenzy.co](https://fishingfrenzy.co/?code=GKTFVQ)
 
-![banner](image.png)
-
 ## Features
 
 - **Register Accounts Using New Wallets**
@@ -21,8 +19,6 @@ Building the onchain economy with @base. Fishing is just the start. 🐟 Develop
 
 - **Node.js**: Ensure you have Node.js installed.
 - **npm**: Ensure you have npm installed.
-
-  ![intro](image-1.png)
 
 if you already have account you can put `access-token` to `tokens.txt`,
 
