@@ -8,6 +8,7 @@
   "scripts": {
     "start": "node main.js",
     "setup": "node setup.js"
+    "autoreff": "node autoreff.js"
   },
   "repository": {
     "type": "git",
