@@ -100,8 +100,8 @@ async function main() {
           await new Promise(resolve => setTimeout(resolve, 1000));
       };
 
-    logger('Waiting 5 minute before Fishing again...');
-    await new Promise(resolve => setTimeout(resolve, 300000)); 
+    logger('Waiting 1 minute before Fishing again...');
+    await new Promise(resolve => setTimeout(resolve, 60000)); 
   };
 };
 
